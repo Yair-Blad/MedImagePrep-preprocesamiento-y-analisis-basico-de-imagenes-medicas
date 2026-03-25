@@ -1,0 +1,3 @@
+"""
+MedImagePrep - Aplicación Streamlit.
+"""
